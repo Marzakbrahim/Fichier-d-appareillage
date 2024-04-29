@@ -1,0 +1,2 @@
+Erreur de type  2 dans le fichier 1, a la ligne 0000000001 : AA1204507 A
+                                                                                Erreur de type  3 dans le fichier 2, a la ligne 0000000020 : XX1204009 3832879 A
